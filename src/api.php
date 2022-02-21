@@ -35,5 +35,5 @@ $connection->query("SET NAMES 'utf8'");
 	   #echo $query;
 	  }
         }
-
+#
 ?>
