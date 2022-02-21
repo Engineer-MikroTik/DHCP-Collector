@@ -1,5 +1,6 @@
 # На MikroTik в DHCP Server на нужных сетях добавить:
 
+
 :if ($leaseBound = 1) do={
  /ip dhcp-server lease;
   :foreach i in=[find dynamic=yes] do={
