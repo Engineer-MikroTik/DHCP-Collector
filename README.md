@@ -8,7 +8,7 @@ cronetab -e
 
 Настройка MikroTik в файле MikroTik.src
 
-Проект сайта настройка-микротик.рф
+Проект сайта https://xn----7sba7aachdbqfnhtigrl.xn--p1ai/ (настройка-микротик.рф)
 
 #
 ##
